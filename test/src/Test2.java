@@ -3,11 +3,9 @@ public class Test2 {
         System.out.println("123");
     }
 
-    ewewwwwwwwwwwwwdsf
-    public void ewrewrw()fdddfsf
-    public void getInfo2(){
-        System.out.println("123123213");
-    }
 
+    public void getInfo1(){
+        System.out.println("3434");
+    }
 
 }
