@@ -11,4 +11,9 @@ public class Test2 {
         System.out.println("3434");
     }
 
+
+    public void getInfo555555(){
+        System.out.println("ererer");
+    }
+
 }
