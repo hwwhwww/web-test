@@ -6,6 +6,10 @@ public class Test2 {
     }
 
 
+    public void getLong(){
+        System.out.println("啦啦啦啦啦啦啦啦绿绿绿绿绿绿");
+    }
+
     public String get123(){
         return "123";
     }
