@@ -3,16 +3,17 @@ public class Test2 {
         System.out.println("123");
     }
 
-    public void getInfo2(){
-        System.out.println("123123213");
-    }
-
 
     public void getInfo4(){
-        System.out.println("getInfo3");
+        System.out.println("222222222222");
+    }
+    public void getInfo1(){
+        System.out.println("3434");
     }
 
-    public void printlnee(){
-        System.out.println("getInfo3");
+
+    public void getInfo555555(){
+        System.out.println("ererer");
     }
+
 }
