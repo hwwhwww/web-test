@@ -1,12 +1,10 @@
 public class Test2 {
-    public  void getInfo(){
-        System.out.println("190737550");
-    }
+
 
 
 
     public String get(){
-        return "190";
+        return "8576432078";
     }
 
 
