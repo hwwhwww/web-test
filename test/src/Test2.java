@@ -10,10 +10,8 @@ public class Test2 {
     public void getInfo1(){
         System.out.println("3434");
     }
-
-
-    public void getInfo555555(){
-        System.out.println("ererer");
+    public void getInfo3343(){
+        System.out.println("3333333333333333333");
     }
 
 }
