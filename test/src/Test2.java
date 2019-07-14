@@ -1,7 +1,17 @@
 public class Test2 {
     public  void getInfo(){
-        System.out.println("123");
+        System.out.println("190737550");
     }
+
+
+
+    public String get(){
+        return "190";
+    }
+
+
+
+
 
 
     public void getInfo4(){
