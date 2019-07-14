@@ -1,10 +1,13 @@
 public class Test2 {
 
 
-
-
     public String get(){
         return "8576432078";
+    }
+
+
+    public String get123(){
+        return "123";
     }
 
 
