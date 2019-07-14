@@ -17,6 +17,10 @@ public class Test2 {
 
 
 
+    public String get2(){
+        return "get2";
+    }
+
 
     public void getInfo4(){
         System.out.println("222222222222");
