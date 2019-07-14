@@ -11,6 +11,10 @@ public class Test2 {
 
 
 
+    public String get1(){
+        return "get1";
+    }
+
 
 
 
