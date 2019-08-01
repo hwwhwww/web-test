@@ -10,6 +10,7 @@ public class Test {
         List<Integer> list=new ArrayList<>();
         list.add(1);
         list.add(2);
+        System.out.println(12345);
         list.add(3);
         list.forEach(t -> {
             System.out.println(t);
