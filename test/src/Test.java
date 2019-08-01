@@ -9,9 +9,15 @@ public class Test {
         System.out.println("还用再来一波");
         List<Integer> list=new ArrayList<>();
         list.add(1);
+        list.add(2);
         list.add(3);
         list.forEach(t -> {
             System.out.println(t);
         });
+
+
+        System.out.println("------------------------------");
+        System.out.println("-------输入成功----------------");
+        System.out.println("------------------------------");
     }
 }
